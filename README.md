@@ -245,6 +245,11 @@ ORDER BY Order_Priority, estimated_shipping_cost DESC;
 
 ### Tables
 
+**KSM SQL CASE STUDY**
+
+![Cleaned Imported Table](https://github.com/user-attachments/assets/ad673b31-924c-40d1-b403-f02deb02a8a6)
+
+
 
 Case Scenario I Insights
 
