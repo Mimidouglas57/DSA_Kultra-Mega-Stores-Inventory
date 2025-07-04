@@ -5,12 +5,13 @@ This project presents a data-driven sales analysis for Kultra Mega Stores (KMS),
 
 - [📌 Project Overview](#-project-overview)
 - [📊 Dataset Description](#-dataset-description)
+- [🧹 Data Cleaning & Preparation](#-data-set-cleaning-&-preparation)
 - [❓ Business Questions Answered](#-business-questions-answered)
 - [🛠️ Tools & Technologies Used](#️-tools--technologies-used)
 - [📁 File Structure](#-file-structure)
 - [🔍 Key Insights & Recommendations](#-key-insights--recommendations)
-- [📊 SQLQueries & Visualizations](#-SQL-Queries-&-visualizations)
-- [🚀 How to Use This Repository](#-how-to-use-this-repository)
+- [📊 SQL Queries & Visualizations](#-SQL-Queries-&-visualizations)
+
 - [👤 Author](#-author)
 
 📌 Project Overview
@@ -24,6 +25,20 @@ Using SQL, Excel, and Power BI, the analysis answers key business questions arou
 The dataset used for this analysis was provided by Kultra Mega Stores (KMS) and includes detailed order records from **2009 to 2012**, specifically from the **Abuja division**. It is structured across two CSV files:
 - KMS SQL Case Study.csv
 - Order_Status.csv
+
+  ## 🧹 Data Cleaning & Preparation
+
+The raw order data was cleaned and transformed to enable accurate analysis. Key steps included:
+
+- **Merged Datasets:** Combined orders and return status using `Order ID`.
+- **Formatted Dates:** Standardized date format and extracted year/month.
+- **Handled Missing Values:** Checked for and resolved any nulls in key fields.
+- **Corrected Data Types:** Ensured numerical and categorical fields were properly typed.
+- **Removed Duplicates:** Eliminated duplicate order records.
+- **Created New Fields:** Added `Order Year`, `Order Month`, and `Return Flag` columns.
+- **Standardized Regions/Provinces:** Fixed inconsistencies in location names.
+
+These steps ensured the data was clean, consistent, and ready for SQL, Excel, and Power BI analysis.
 
 ## ❓ Business Questions Answered
 
@@ -48,7 +63,7 @@ The dataset used for this analysis was provided by Kultra Mega Stores (KMS) and 
 
 ## 📁 File Structure
 
-## 📊 SQLQueries & Visualization
+## 📊 SQL Queries & Visualization
 
 ``` sql
 
