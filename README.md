@@ -1,6 +1,35 @@
 # DSA_Kultra-Mega-Stores-Inventory
 This project presents a data-driven sales analysis for Kultra Mega Stores (KMS), a Nigerian company specializing in office supplies and furniture. Using SQL and Excel, I explored customer trends, sales performance, product profitability, and logistics costs across multiple years (2009–2012).
 
+## 📚 Table of Contents
+
+- [📌 Project Overview](#-project-overview)
+- [📊 Dataset Description](#-dataset-description)
+- [❓ Business Questions Answered](#-business-questions-answered)
+- [🛠️ Tools & Technologies Used](#️-tools--technologies-used)
+- [📁 File Structure](#-file-structure)
+- [🔍 Key Insights & Recommendations](#-key-insights--recommendations)
+- [📊 Visualizations](#-visualizations)
+- [🚀 How to Use This Repository](#-how-to-use-this-repository)
+- [👤 Author](#-author)
+
+
+1. [Project Overview](#project-overview)  
+## 📊 Dataset Description
+The dataset covers...
+
+## ❓ Business Questions Answered
+1. Which product category had the highest sales?
+2. What are the top and bottom regions in terms of sales?
+...
+
+## 🛠️ Tools & Technologies Used
+- SQL (SQLite style)
+- Excel (Pivot Tables, Charts)
+- Power BI
+- Python (pandas, xlsxwriter)
+
+## 📁 File Structure
 
 📌 Project Overview
 
