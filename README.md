@@ -26,8 +26,17 @@ The dataset used for this analysis was provided by Kultra Mega Stores (KMS) and 
 - Order_Status.csv
 
 ## ❓ Business Questions Answered
+
 1. Which product category had the highest sales?
 2. What are the top and bottom regions in terms of sales?
+3. What were the total sales of appliances in Ontario?
+4. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers
+5. KMS incurred the most shipping cost using which shipping method?
+6. Who are the most valuable customers, and what products or services do they typically purchase?
+7. Which small business customer had the highest sales?
+8. Which Corporate Customer placed the most number of orders in 2009 – 2012?
+9. Which consumer customer was the most profitable one?
+10. Which customer returned items, and what segment do they belong to?
 ...
 
 ## 🛠️ Tools & Technologies Used
