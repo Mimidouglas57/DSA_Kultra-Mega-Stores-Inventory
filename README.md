@@ -283,7 +283,8 @@ ORDER BY Order_Priority, estimated_shipping_cost DESC;
 
 - Most Profitable Consumer customer
 
-  ![Most Profitable Customer](https://github.com/user-attachments/assets/63cde037-3a54-4f24-8c4f-46c70479b4ac)
+![Most Profitable Customer (2)](https://github.com/user-attachments/assets/4a8d8d69-6642-47a7-8468-2862dfff5111)
+
 
 
 - Customers that Returned Items and the Segment they Belong to
