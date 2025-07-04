@@ -20,7 +20,10 @@ This project analyzes sales data for Kultra Mega Stores (KMS) — a Nigerian ret
 Using SQL, Excel, and Power BI, the analysis answers key business questions around top-selling products, most valuable customers, regional performance, and cost-effective shipping. The insights support strategic decisions to boost revenue, optimize logistics, and better serve customers.
  
 ## 📊 Dataset Description
-The dataset covers...
+
+The dataset used for this analysis was provided by Kultra Mega Stores (KMS) and includes detailed order records from **2009 to 2012**, specifically from the **Abuja division**. It is structured across two CSV files:
+- KMS SQL Case Study.csv
+- Order_Status.csv
 
 ## ❓ Business Questions Answered
 1. Which product category had the highest sales?
