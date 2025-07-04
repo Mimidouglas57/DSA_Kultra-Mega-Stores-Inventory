@@ -49,7 +49,8 @@ The dataset used for this analysis was provided by Kultra Mega Stores (KMS) and 
 ## 📁 File Structure
 
 
-``` CREATE DATABASE DSA_CAPSTONE_PROJECT_KMS_DB
+```
+CREATE DATABASE DSA_CAPSTONE_PROJECT_KMS_DB
 
 
 SELECT * FROM KMS_Sql_Case_Study
