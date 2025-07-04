@@ -49,4 +49,49 @@ The dataset used for this analysis was provided by Kultra Mega Stores (KMS) and 
 ## 📁 File Structure
 
 
+``` sql
+
+
+Case Scenario I Insights
+
+1. **Top Category:**  
+   Technology is the highest revenue-generating category (₦5.98M). Recommend focusing promotions and stock on this category.
+
+2. **Regional Sales:**  
+   West, Ontario, and Prarie are the top-performing regions.  
+   Nunavut had the lowest sales (₦116k) — consider geo-targeted awareness campaigns.
+
+3. **Zero Sales Category:**  
+   No appliance sales in Ontario — investigate if it's a supply chain or product-market fit issue.
+
+4. **Low-Spending Customers:**  
+   Bottom 10 customers spent less than ₦500. Recommend offering loyalty discounts or bundling strategies to increase spend.
+
+5. **Shipping Cost Drivers:**  
+   Delivery Truck has the highest shipping cost, likely due to volume. Monitor cost-effectiveness in low-margin transactions.
+📁 insights/case_scenario_2_insights.md
+markdown
+Copy
+Edit
+# Case Scenario II Insights
+
+6. **Most Valuable Customers:**  
+   Top 5 customers heavily purchase office supplies and technology. Consider exclusive packages or subscription models.
+
+7. **Small Business Leader:**  
+   One customer dominates small business purchases — create a VIP tier or repeat-order program.
+
+8. **Corporate Champion:**  
+   Highest-order corporate customer offers consistent demand — consider account-based pricing.
+
+9. **Most Profitable Consumer:**  
+   A consumer customer generated the highest net profit — study their basket and identify upsell opportunities.
+
+10. **Return Behavior:**  
+   Returns came from specific segments. Analyze return reasons to reduce reverse logistics costs.
+
+11. **Order Priority vs Shipping Mode:**  
+   Shipping cost aligns with order priority overall, but a few high-priority orders used slower methods. Flag for logistics audit.
+
+
 
