@@ -249,7 +249,28 @@ ORDER BY Order_Priority, estimated_shipping_cost DESC;
 
 ![Cleaned Imported Table](https://github.com/user-attachments/assets/ad673b31-924c-40d1-b403-f02deb02a8a6)
 
+- Top 3 and Bottom 3 Regions in terms of sales
 
+![Top 3   Bottom 3 Sales Regions](https://github.com/user-attachments/assets/5a9a54c7-298d-4bf9-9d58-a4aefeb49b8a)
+
+
+- Total Sales of Appliance in Ontario
+
+  ![Total Appliance Sales in Ontario](https://github.com/user-attachments/assets/b22db811-75e2-49f7-b293-a868d518958b)
+
+- Botto 10 customers
+
+![Bottom 10 Customers](https://github.com/user-attachments/assets/b9904d3b-001d-4af7-88b9-5e4e519f5a21)
+
+  - Shipping Method that Incured the Most Shipping Cost
+
+    ![Most Shipping Cost   Method](https://github.com/user-attachments/assets/0dd0f457-d185-4f0c-ab7e-ca17b2b549e7)
+
+- Top 5 Most Valuable Customer and the Product/Servce they Purchase
+
+
+
+  
 
 Case Scenario I Insights
 
