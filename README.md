@@ -8,10 +8,8 @@ This project presents a data-driven sales analysis for Kultra Mega Stores (KMS),
 - [🧹 Data Cleaning & Preparation](#-data-set-cleaning-&-preparation)
 - [❓ Business Questions Answered](#-business-questions-answered)
 - [🛠️ Tools & Technologies Used](#️-tools--technologies-used)
-- [📁 File Structure](#-file-structure)
 - [🔍 Key Insights & Recommendations](#-key-insights--recommendations)
 - [📊 SQL Queries & Visualizations](#-SQL-Queries-&-visualizations)
-
 - [👤 Author](#-author)
 
 📌 Project Overview
@@ -60,8 +58,6 @@ These steps ensured the data was clean, consistent, and ready for SQL, Excel, an
 - Excel (To export data)
 - GitHub (Project Documentation)
 
-
-## 📁 File Structure
 
 ## 📊 SQL Queries & Visualization
 
@@ -297,7 +293,7 @@ ORDER BY Order_Priority, estimated_shipping_cost DESC;
 
   ![Delivery Methods   Cost](https://github.com/user-attachments/assets/65c5be23-03a5-4316-87c0-8f3d22c9026a)
 
-##[🔍 Key Insights & Recommendations]
+## [🔍 Key Insights & Recommendations]
 
 1. **Top Category:**  
    Technology is the highest revenue-generating category (₦5.98M).
@@ -344,6 +340,25 @@ ORDER BY Order_Priority, estimated_shipping_cost DESC;
 11. **Order Priority vs Shipping Mode:**  
    Shipping cost aligns with order priority overall, but a few high-priority orders used slower methods.
 	- Flag for logistics audit.
+
+## [👤 Author
+
+Hi! I'm **Miebaka Douglas**, a passionate **Business Intelligence Analyst** with a growing specialization in **Procurement Analytics**.
+
+I enjoy transforming raw data into strategic insights that drive smarter decisions across supply chains, customer behavior, and business performance.
+
+### 💼 What I Do:
+- Analyze business data using SQL, Excel, Power BI, and Python  
+- Deliver clean, story-driven dashboards and reports  
+- Support procurement and operational teams with insight-based planning  
+
+### 📈 Interests:
+- Data storytelling  
+- Business process improvement  
+- Procurement transformation  
+- Power BI visual design  
+
+📫 **Let’s connect**: I’m always open to collaborations, data projects, and knowledge-sharing.
 
 
 
