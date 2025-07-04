@@ -9,7 +9,7 @@ This project presents a data-driven sales analysis for Kultra Mega Stores (KMS),
 - [🛠️ Tools & Technologies Used](#️-tools--technologies-used)
 - [📁 File Structure](#-file-structure)
 - [🔍 Key Insights & Recommendations](#-key-insights--recommendations)
-- [📊 Visualizations](#-visualizations)
+- [📊 SQLQueries & Visualizations](#-SQL-Queries-&-visualizations)
 - [🚀 How to Use This Repository](#-how-to-use-this-repository)
 - [👤 Author](#-author)
 
@@ -48,6 +48,7 @@ The dataset used for this analysis was provided by Kultra Mega Stores (KMS) and 
 
 ## 📁 File Structure
 
+📊 SQLQueries & Visualization
 
 ``` sql
 
