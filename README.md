@@ -297,47 +297,53 @@ ORDER BY Order_Priority, estimated_shipping_cost DESC;
 
   ![Delivery Methods   Cost](https://github.com/user-attachments/assets/65c5be23-03a5-4316-87c0-8f3d22c9026a)
 
-
-Case Scenario I Insights
+##[🔍 Key Insights & Recommendations]
 
 1. **Top Category:**  
-   Technology is the highest revenue-generating category (₦5.98M). Recommend focusing promotions and stock on this category.
+   Technology is the highest revenue-generating category (₦5.98M).
+   - Recommend focusing promotions and stock on this category.
 
 2. **Regional Sales:**  
-   West, Ontario, and Prarie are the top-performing regions.  
-   Nunavut had the lowest sales (₦116k) — consider geo-targeted awareness campaigns.
-
-3. **Zero Sales Category:**  
-   No appliance sales in Ontario — investigate if it's a supply chain or product-market fit issue.
+   West, Ontario, and Prarie are the top-performing regions.
+   Yukon, Northwest Territories and Nunavut had the lowest sales with ₦975K, ₦800k and ₦116k respectively
+   	— consider geo-targeted awareness campaigns.
+   
+3. **Total Sales of Appliances in Ontario**
+	The total sale was 202,346.839
 
 4. **Low-Spending Customers:**  
-   Bottom 10 customers spent less than ₦500. Recommend offering loyalty discounts or bundling strategies to increase spend.
+   Bottom 10 customers spent less than ₦500.
+  	 - Recommend offering loyalty discounts or bundling strategies to increase spend.
+      	- Improve Company-Customer relationship
+        - 	Product Improement
 
 5. **Shipping Cost Drivers:**  
-   Delivery Truck has the highest shipping cost, likely due to volume. Monitor cost-effectiveness in low-margin transactions.
-📁 insights/case_scenario_2_insights.md
-markdown
-Copy
-Edit
-# Case Scenario II Insights
+   Delivery Truck has the highest shipping cost with a total cost of ₦51,971.94 , likely due to volume.
+   - Monitor cost-effectiveness in low-margin transactions.
 
 6. **Most Valuable Customers:**  
-   Top 5 customers heavily purchase office supplies and technology. Consider exclusive packages or subscription models.
+   Top 5 customers heavily purchase office supplies and technology.
+ 	  - Consider exclusive packages or subscription models.
 
 7. **Small Business Leader:**  
-   One customer dominates small business purchases — create a VIP tier or repeat-order program.
+   Dennis Kane dominated small business purchases with a total sale of ₦75,967.59
+   	— create a VIP tier or repeat-order program.
 
 8. **Corporate Champion:**  
-   Highest-order corporate customer offers consistent demand — consider account-based pricing.
+   Highest-order corporate customer was Adam Hart with a Total of 19 orders, this offers consistent demand
+   	— consider account-based pricing.
 
 9. **Most Profitable Consumer:**  
-   A consumer customer generated the highest net profit — study their basket and identify upsell opportunities.
+   Emily Phan, a consumer customer generated the highest net profit with a profit of ₦34,005.44
+   	-  study their basket and identify upsell opportunities.
 
 10. **Return Behavior:**  
-   Returns came from specific segments. Analyze return reasons to reduce reverse logistics costs.
+   A total number of 573 Customers returned Items and these returns came from specific segments.
+	- Analyze return reasons to reduce reverse logistics costs.
 
 11. **Order Priority vs Shipping Mode:**  
-   Shipping cost aligns with order priority overall, but a few high-priority orders used slower methods. Flag for logistics audit.
+   Shipping cost aligns with order priority overall, but a few high-priority orders used slower methods.
+	- Flag for logistics audit.
 
 
 
