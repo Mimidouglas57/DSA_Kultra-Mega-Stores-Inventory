@@ -268,9 +268,34 @@ ORDER BY Order_Priority, estimated_shipping_cost DESC;
 
 - Top 5 Most Valuable Customer and the Product/Servce they Purchase
 
+![Top 5 Most Valuable Customers](https://github.com/user-attachments/assets/158b030c-c868-4552-a5ec-945050790e07)
 
 
-  
+- Small Business Customer with Highest Sales
+
+![Small Business Customer with Highest Sales](https://github.com/user-attachments/assets/5ed3f1c0-fac1-47f1-995f-92a666391d20)
+
+
+- Corporate Customer with Most Orders from 2009 - 2012
+
+![Corporate Customer with Most Orders](https://github.com/user-attachments/assets/591d9fd0-cdea-4639-bc4d-fa35ec12d479)
+
+
+- Most Profitable Consumer customer
+
+  ![Most Profitable Customer](https://github.com/user-attachments/assets/63cde037-3a54-4f24-8c4f-46c70479b4ac)
+
+
+- Customers that Returned Items and the Segment they Belong to
+
+  ![customer Returned items](https://github.com/user-attachments/assets/27a426d6-2eb9-4809-951f-6a7e524acb2d)
+
+
+
+- Shipping Method & Cost
+
+  ![Delivery Methods   Cost](https://github.com/user-attachments/assets/65c5be23-03a5-4316-87c0-8f3d22c9026a)
+
 
 Case Scenario I Insights
 
