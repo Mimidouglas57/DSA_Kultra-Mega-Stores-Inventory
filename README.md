@@ -48,7 +48,7 @@ The dataset used for this analysis was provided by Kultra Mega Stores (KMS) and 
 
 ## 📁 File Structure
 
-📊 SQLQueries & Visualization
+## 📊 SQLQueries & Visualization
 
 ``` sql
 
