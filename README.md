@@ -243,6 +243,8 @@ GROUP BY Ship_mode, Order_Priority
 ORDER BY Order_Priority, estimated_shipping_cost DESC;
 ```
 
+### Tables
+
 
 Case Scenario I Insights
 
